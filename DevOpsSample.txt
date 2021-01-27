@@ -1,1 +1,2 @@
 DevOps Sample Text File
+Updated the file from github console (remote branch)
